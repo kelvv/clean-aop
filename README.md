@@ -1,4 +1,5 @@
-#clean-aop －－简介 [![Build][Build-state]][Build-url]    [![Gitter](https://badges.gitter.im/Jarvin-Guan/CleanAOP.svg)](https://gitter.im/Jarvin-Guan/CleanAOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+#clean-aop －－简介 
+
 	作者：kelvin
 	邮箱：kelvin@outlook.com
 
@@ -78,7 +79,3 @@
 		处理错误,错误信息为：错误测试（[TryCatchAttrubute]）
 		执行结束,System.Threading.Tasks.Task DoWord()方法（[LogAopAttrubute]）
 		2015/11/5 0:05:23（[TimeAop]）
-
-[Build-state]: https://travis-ci.org/Jarvin-Guan/CleanAOP.svg?branch=master
-[Build-url]: https://travis-ci.org/
-
